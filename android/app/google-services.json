@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384236006451",
+    "project_id": "comms-app-14c8f",
+    "storage_bucket": "comms-app-14c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384236006451:android:f7c1745494ba1b7f914746",
+        "android_client_info": {
+          "package_name": "com.gunjan.comms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384236006451-k313uvnohb5ff0990l3uu8vbkvs2q3u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fSlZtNiPwUwC6PIZPFz2z7dKauQZXWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384236006451-k313uvnohb5ff0990l3uu8vbkvs2q3u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
